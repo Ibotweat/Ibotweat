@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ibotweat
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Front-end
 - 📫 How to reach me to discord
 
 <!---
