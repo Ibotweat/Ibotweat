@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibotweat
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Front-end
-- 📫 How to reach me to discord
+- 📫 Contact me on discord
 
 <!---
 Ibotweat/Ibotweat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
